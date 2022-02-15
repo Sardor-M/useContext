@@ -23,15 +23,12 @@ const CounterButton =() => {
         <div 
         style={{
             backgroundColor: backgroundColor
-
         }}
         onClick = {handleClick} className="color-button">
-          
-        
-         
         </div>
     );
-};
+    
+   };
 
 
 export default CounterButton;
