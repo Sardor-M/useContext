@@ -1,0 +1,9 @@
+.sidebar-container {
+  width: 250px;
+  height: 100vh;
+  display: flex;
+}
+
+.button-container {
+  display: 100px;
+}
