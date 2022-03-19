@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Refer to the products reference website (link) below 
-[FakeStoreApi Website](https://fakestoreapi.com/products)
+[FakeStoreApi Website](https://fakestoreapi.com)
